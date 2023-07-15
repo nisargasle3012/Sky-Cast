@@ -6,3 +6,4 @@ There "HOME" button is available on success page, by clicking on which we will b
 If the entered city name is incorrect or information of that city is not available in the API, clicking on proceed will lead to a failure page.
 Failure page also consists of "HOME" button, again by clicking on which you will be redirected to home page.
 Website consists of frontend with HTML, CSS and Bootstrap framework whereas backend consists of Express and Node js and API to fetch data from.
+Also can visit to site (deployed by Cyclic):-  https://good-jade-pig-vest.cyclic.app/
